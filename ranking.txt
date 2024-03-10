@@ -1,0 +1,6 @@
+5	everyday
+4	3-4times a week
+3	1-2time a week
+2	1-2times a month
+1	rarely
+0	never
